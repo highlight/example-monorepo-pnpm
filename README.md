@@ -1,4 +1,4 @@
-# monorepo-example-pnpm
+# example-monorepo-pnpm
 
 An example repository demonstrating how to set up a pnpm monorepo.
 
